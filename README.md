@@ -1,2 +1,2 @@
-# Gunakan pada web berikut : http://notesapp-v1.dicodingacademy.com/
-# Ubah Web Server Api ke "http://localhost:5000/"
+# Belajar Membuat Aplikasi Back-End untuk Pemula
+# From Dicoding
